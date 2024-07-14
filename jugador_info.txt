@@ -1,0 +1,4 @@
+Nombre: Jose
+Edad: 19
+Nivel: 3
+Resultado: Gano
